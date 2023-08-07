@@ -18,7 +18,7 @@ body{
 }
 
 main.container{
-    background-color: antiquewhite;
+    background-color: rgb(242, 230, 230);
     height: 30rem;
     padding: 30px;
     border-radius: 20px;
